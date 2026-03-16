@@ -1,16 +1,18 @@
-## Hi there 👋
+Senior Software Engineer | Application Security.
 
-<!--
-**rafaelvmedeiros2025/rafaelvmedeiros2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focus areas:
+- Application Security (AppSec)
+- Secure Coding
+- OWASP Top 10
+- Cloud Security
+- DevSecOps
 
-Here are some ideas to get you started:
+Tech stack:
+Python • Javascript • TypeScript • AWS • Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building:transitioning into Application Security.
+- Vulnerable Web Applications
+- Security Automation Tools
+- DevSecOps Pipelines
+
+Goal: Building secure software and helping teams ship safer code.

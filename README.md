@@ -6,7 +6,14 @@ I'm from Brazil, living in Rio de Janeiro.
 
 You can find me on [![LinkedIn][1.1]][1]
 
----
+## Other Projects
+
+You can explore more of my work here:
+
+➡️ **GitHub Repositories**  
+https://github.com/rafaelvmedeiros?tab=repositories
+
+These projects include fullstack applications, experiments and development tools.
 
 ### 🔐 Security Focus
 
